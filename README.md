@@ -2,7 +2,7 @@
     <!-- project badges -->
     <a href="https://research.zenseact.com/publications/gasp/"><img src="https://img.shields.io/badge/Project-Page-ffa"/></a>
     <!-- paper badges -->
-    <a href="">
+    <a href="https://arxiv.org/abs/2503.15672">
         <img src='https://img.shields.io/badge/arXiv-Page-aff'>
     </a>
 </p>
